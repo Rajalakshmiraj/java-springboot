@@ -21,6 +21,7 @@ $ java -jar target/spring-boot-web.jar
 
 //dockerize
 
+
 // create a docker image
 $ sudo docker build -t spring-boot:1.0 .
 // run it
